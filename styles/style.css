@@ -1,0 +1,17 @@
+body{
+    background:  radial-gradient(circle, rgb(0, 174, 255), white);
+    display: grid;
+    justify-content: center;
+    font-family: cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+.conteiner{
+    display: grid;
+    justify-content: center;
+    /* border: 2px solid green; */
+    width: 300px;
+}
